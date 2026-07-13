@@ -1,0 +1,17 @@
+Model: MobileNetV2 (Transfer Learning)
+Dataset: 5,950 images across 5 classes
+Classes: wet_organic, recyclable_plastic, hazardous, health_medical, glass_metal
+
+Training Results:
+- Train Accuracy: 93.57%
+- Val Accuracy: 93.05%
+
+Test Results:
+- Overall Accuracy: 91.26%
+- wet_organic F1: 0.9080
+- recyclable_plastic F1: 0.9718
+- hazardous F1: 0.8511
+- health_medical F1: 0.8627
+- glass_metal F1: 0.9827
+
+Figures saved to Google Drive/paper_figures/
