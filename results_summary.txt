@@ -15,3 +15,7 @@ Test Results:
 - glass_metal F1: 0.9827
 
 Figures saved to Google Drive/paper_figures/
+- confusion_matrix.png
+- per_class_accuracy.png
+- gradcam_all_classes.png
+- classification_report.txt
