@@ -1,0 +1,10 @@
+{
+  "windows": [{
+    "name": "main_window",
+    "maximized": false,
+    "fullscreen": false,
+    "components": [{
+      "name": "simulation_view"
+    }]
+  }]
+}
