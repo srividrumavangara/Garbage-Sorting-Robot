@@ -1,0 +1,14 @@
+YOLOv8 Detection Results
+========================
+Overall mAP50:    89.2%
+Overall mAP50-95: 77.3%
+Inference speed:  2.1ms per image
+
+Per-class mAP50:
+- wet_organic:        90.1%
+- recyclable_plastic: 87.6%
+- hazardous:          96.6%
+- health_medical:     79.8%
+- glass_metal:        92.0%
+
+Model saved: /content/drive/MyDrive/yolo_runs/garbage_yolov8/weights/best.pt
